@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JHagan17
+- 👀 I’m interested in HTML, CSS & JavaScript coding.
+- 🌱 I’m currently learning Digital Media Design.
+- 📫 How to reach me, julian.hagan17@gmail.com
